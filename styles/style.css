@@ -134,6 +134,10 @@ a{
     font-size: 32px;
     font-family: Montserrat;
 }
+.g1 img, .g2 img, .g3 img{
+    width: 491px;
+    height: 655px;
+}
 /*-------товары конец-------*/
 
 
@@ -141,6 +145,10 @@ a{
 .mission{
     margin-top: 135px;
     display: flex;
+}
+.mission img{
+    width: 717px;
+    height: 825px;
 }
 .mission .block1{
     width: 1203px;
@@ -212,6 +220,10 @@ a{
 .application{
     margin-top: 157px;
     display: flex;
+}
+.application img{
+    width: 768px;
+    height: 782px;
 }
 .application .application1{
     background: #F1EAEA;
@@ -351,6 +363,10 @@ a{
     display: flex;
     gap: 57px;
    justify-content: center;
+}
+.social .image img{
+    width: 68px;
+    height: 68px;
 }
 /*-------подвал конец-------*/
 
